@@ -1,4 +1,4 @@
-👋 Hi, I’m @Hafeez3344
+👋 Hi, I’m Hafeez ur Rahman
 👀 I’m interested in creating responsive and user-friendly web applications, with a focus on frontend development using HTML, CSS, JavaScript, and React.
 🌱 I’m currently enhancing my skills in the MERN stack, especially deepening my knowledge in React and Node.js.
 💞️ I’m looking to collaborate on web development projects, particularly those that involve building innovative and interactive UI/UX.
