@@ -1,5 +1,5 @@
 👋 Hi, I’m Hafeez ur Rahman
-👀 I’m interested in creating responsive and user-friendly web applications, with a focus on frontend development using HTML, CSS, JavaScript, and React.
+👀 I’m interested in creating responsive and user-friendly web applications, with a focus on frontend development using HTML, CSS, JavaScript, React, and Tailwind.
 🌱 I’m currently enhancing my skills in the MERN stack, especially deepening my knowledge in React and Node.js.
 💞️ I’m looking to collaborate on web development projects, particularly those that involve building innovative and interactive UI/UX.
 📫 How to reach me: hafeez.rahman4455@gmail.com | https://www.linkedin.com/in/hafeez-ur-rahman-22404520b
